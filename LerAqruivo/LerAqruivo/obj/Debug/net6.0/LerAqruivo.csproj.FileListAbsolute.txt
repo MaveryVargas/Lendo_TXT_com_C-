@@ -1,0 +1,15 @@
+C:\Users\mav7\Desktop\Alura\Cursos\Windows Forms\LerAqruivo\LerAqruivo\bin\Debug\net6.0\LerAqruivo.exe
+C:\Users\mav7\Desktop\Alura\Cursos\Windows Forms\LerAqruivo\LerAqruivo\bin\Debug\net6.0\LerAqruivo.deps.json
+C:\Users\mav7\Desktop\Alura\Cursos\Windows Forms\LerAqruivo\LerAqruivo\bin\Debug\net6.0\LerAqruivo.runtimeconfig.json
+C:\Users\mav7\Desktop\Alura\Cursos\Windows Forms\LerAqruivo\LerAqruivo\bin\Debug\net6.0\LerAqruivo.dll
+C:\Users\mav7\Desktop\Alura\Cursos\Windows Forms\LerAqruivo\LerAqruivo\bin\Debug\net6.0\LerAqruivo.pdb
+C:\Users\mav7\Desktop\Alura\Cursos\Windows Forms\LerAqruivo\LerAqruivo\obj\Debug\net6.0\LerAqruivo.csproj.AssemblyReference.cache
+C:\Users\mav7\Desktop\Alura\Cursos\Windows Forms\LerAqruivo\LerAqruivo\obj\Debug\net6.0\LerAqruivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mav7\Desktop\Alura\Cursos\Windows Forms\LerAqruivo\LerAqruivo\obj\Debug\net6.0\LerAqruivo.AssemblyInfoInputs.cache
+C:\Users\mav7\Desktop\Alura\Cursos\Windows Forms\LerAqruivo\LerAqruivo\obj\Debug\net6.0\LerAqruivo.AssemblyInfo.cs
+C:\Users\mav7\Desktop\Alura\Cursos\Windows Forms\LerAqruivo\LerAqruivo\obj\Debug\net6.0\LerAqruivo.csproj.CoreCompileInputs.cache
+C:\Users\mav7\Desktop\Alura\Cursos\Windows Forms\LerAqruivo\LerAqruivo\obj\Debug\net6.0\LerAqruivo.dll
+C:\Users\mav7\Desktop\Alura\Cursos\Windows Forms\LerAqruivo\LerAqruivo\obj\Debug\net6.0\refint\LerAqruivo.dll
+C:\Users\mav7\Desktop\Alura\Cursos\Windows Forms\LerAqruivo\LerAqruivo\obj\Debug\net6.0\LerAqruivo.pdb
+C:\Users\mav7\Desktop\Alura\Cursos\Windows Forms\LerAqruivo\LerAqruivo\obj\Debug\net6.0\LerAqruivo.genruntimeconfig.cache
+C:\Users\mav7\Desktop\Alura\Cursos\Windows Forms\LerAqruivo\LerAqruivo\obj\Debug\net6.0\ref\LerAqruivo.dll
